@@ -10,6 +10,6 @@ This repository contains solutions for 41 Core Java exercises covering:
 - Collections Framework
 - Multithreading
 - JDBC
-- 
+
 ## Author
 Aanchal Kumari
